@@ -17,3 +17,6 @@ Additionally, I have created the calendar table with the help of DAX, and the ma
 10. What is the employee turnover rate (e.g., monthly, quarterly, annually) since 2017?
 
 Attached are screenshots of the dashboards and findings: Dashboard 1, Dashboard 2, and Dashboard 3.
+<img width="548" alt="HRAnalytics1" src="https://github.com/Deepak-Biswakarma-2310/HRAnalyticsDashboard/assets/124545628/18b81e35-800b-4cb3-8f75-55b9b4bb3d79"><br>
+<img width="548" alt="HRAnalytics2" src="https://github.com/Deepak-Biswakarma-2310/HRAnalyticsDashboard/assets/124545628/2edfcf8c-f5ba-42d0-b77f-bf175ad58afd"><br>
+<img width="549" alt="HRAnalytics3" src="https://github.com/Deepak-Biswakarma-2310/HRAnalyticsDashboard/assets/124545628/507952fc-7b3c-46f7-8b68-152fae6a64af">
